@@ -1,0 +1,17 @@
+## qssi-user 11 RKQ1.200826.002 V12.1.5.0.RGICNXM release-keys
+- Manufacturer: xiaomi
+- Platform: lito
+- Codename: picasso
+- Brand: Redmi
+- Flavor: qssi-user
+- Release Version: 11
+- Id: RKQ1.200826.002
+- Incremental: V12.1.5.0.RGICNXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: zh-CN
+- Screen Density: 440
+- Fingerprint: Redmi/picasso/picasso:11/RKQ1.200826.002/V12.1.5.0.RGICNXM:user/release-keys
+- Branch: qssi-user-11-RKQ1.200826.002-V12.1.5.0.RGICNXM-release-keys
+- Repo: redmi_picasso_dump
